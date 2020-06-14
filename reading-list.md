@@ -1,6 +1,6 @@
 ---
 title: Reading List
-subtitle: A list of recommended literature.
+subtitle: Here you can find some general information about hate speech detection using NLP.
 layout: "page"
 icon: fa-bookmark
 order: 6
