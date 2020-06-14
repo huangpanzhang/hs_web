@@ -6,7 +6,7 @@ icon: fa-book
 order: 5
 ---
 
-- [Bj ̈orn Ross,  Michael Rist,  Guillermo Carbonell,  Ben-jamin  Cabrera,  Nils  Kurowsky,  and  Michael  Wo-jatzki.  2017.Measuring  the  Reliability  of  HateSpeech  Annotations:   The  Case  of  The  EuropeanRefugee Crisis.arXiv preprint arXiv:1701.08](https://arxiv.org/pdf/1701.08118.pdf)
+- [Björn Ross,  Michael Rist,  Guillermo Carbonell,  Ben-jamin  Cabrera,  Nils  Kurowsky,  and  Michael  Wo-jatzki.  2017.Measuring  the  Reliability  of  HateSpeech  Annotations:   The  Case  of  The  EuropeanRefugee Crisis.arXiv preprint arXiv:1701.08](https://arxiv.org/pdf/1701.08118.pdf)
 - [Darina Benikova, Michael Wojatzki, and Torsten Zesch. 2017. What Does This Imply? Examining the Impact of Implicitness on the Perception of Hate Speech. In International Conference of the German Society for Computational Linguistics and Language Technology, pages 171–179. Springer.](https://link.springer.com/chapter/10.1007/978-3-319-73706-5_14)
 - [Michael Wojatzki, Tobias Horsmann, Darina Gold, and Torsten Zesch. 2018. Do Women Perceive Hate Differently: Examining the Relationship Between Hate Speech, Gender, and Agreement Judgments. In Proceedings of the Conference on Natural Language Processing (KONVENS), pages 110–120.](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/konvens18_13.pdf)
 - [Huangpan Zhang, Michael Wojatzki, Tobias Horsmann, and Torsten Zesch. 2019. ltl.uni-due at semeval-2019 task 5: Simple but effective lexico-semantic features for detecting hate speech in twitter. In Proceedings of the 13th International Workshopon Semantic Evaluation, pages 441–446](https://www.aclweb.org/anthology/S19-2078.pdf)
