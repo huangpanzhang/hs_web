@@ -4,6 +4,7 @@ subtitle: Here you can find a list of hate speech research at our lab.
 layout: "page"
 icon: fa-tasks
 order: 3
+hide: true
 ---
 
 ### General methodologies
@@ -43,14 +44,13 @@ order: 3
 
 **Group detection in hate speech dataset**
 
-- Will cooperate with another PhD student 
 - Possible ideas is to use knowledge graph combined with NLP method
 
 **COVID\-19 hate speech targeted to Chinese**
 
- - Will cooperate with [Yuning Ding](https://www.ltl.uni-due.de/team/yuning-ding)
- - We already have the data 
- - Research question need to be clarified/specified
+- Will cooperate with [Yuning Ding](https://www.ltl.uni-due.de/team/yuning-ding)
+- We already have the data 
+- Research question need to be clarified/specified
 
 ### Past
 
