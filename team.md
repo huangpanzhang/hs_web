@@ -7,11 +7,11 @@ order: 7
 ---
 
 
-[M.Sc. Huangpan Zhang](mailto:huangpan.zhang@uni-due.de)
+[M.Sc. Huangpan Zhang](assets/images/zhang.jpg) [Email](mailto:huangpan.zhang@uni-due.de)
 
-[Dr. phil. Semire Yekta](mailto:semire.yekta@uni-due.de)
+[Dr. phil. Semire Yekta](assets/images/yekta.jpg) [Email](mailto:semire.yekta@uni-due.de)
 
-[Prof. Torsten Zesch](mailto:torsten.zesch@uni-due.de)
+[Prof. Torsten Zesch](assets/images/zesch.jpg) [Email](mailto:torsten.zesch@uni-due.de)
 
 [Language Technology Lab](https://www.ltl.uni-due.de/)
 

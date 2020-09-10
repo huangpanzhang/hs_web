@@ -3,4 +3,4 @@ title: Our Goal
 order: 3
 ---
 
-In this research, we aim to develop different method of automatically detecting hate speech on social media by using natural language processing (NLP) technology. We try to study different perspectives that can influence people's perception of hate speech， and operationalize such perspectives into NLP framework.
+Our research group focuses on the development of methods to automatically detect hate speech on social media by using natural language processing (NLP) and machine learning. We explore how reliability in detection models can be achieved to identify and predict offensive and illegal content as well as study different perceptions and understandings of hate speech.
